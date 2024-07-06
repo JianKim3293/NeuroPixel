@@ -1,1 +1,1 @@
-# SRGAN
+# Neuro Pixel Project
